@@ -75,7 +75,6 @@ NRMSE_val_grid=reshape(NRMSE_val,[20, 20]);
 surf(val_xgrid,val_ygrid,NRMSE_val_grid)
 view(2)
 shading interp
-colormap(redyellowblueTecplot)
 colorbar
 caxis([0 0.05])
 axis([DvBoundary(1,2) DvBoundary(1,1) DvBoundary(2,2) DvBoundary(2,1)])
