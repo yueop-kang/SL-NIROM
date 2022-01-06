@@ -17,6 +17,6 @@ https://drive.google.com/drive/folders/1xGm_M5jJP-wrPiRyYt7kv1WfUnMEtGr8?usp=sha
 Bishop CM., 'Pattern Recognition and Machine Learning,' Springer, 2006.
 
 # Citation
-'''
+```
 To be determined.
-'''
+```
