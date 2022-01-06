@@ -16,5 +16,7 @@ https://drive.google.com/drive/folders/1xGm_M5jJP-wrPiRyYt7kv1WfUnMEtGr8?usp=sha
 # Reference
 Bishop CM., 'Pattern Recognition and Machine Learning,' Springer, 2006.
 
-# Cite as
+# Citation
+'''
 To be determined.
+'''
