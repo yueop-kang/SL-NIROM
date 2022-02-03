@@ -1,7 +1,7 @@
 # SL-NIROM
 Soft local non-intrusive reduced-order modeling (SL-NIROM) allows flexible overlapping of individual NIROMs using fuzzy c-means (FCM) and multinomial logsitic regression (MLR).
 
-This source code is written in Mathlab language, and implements the algorithm of the research paper "Soft local non-intrusive reduced-order modeling based on soft clustering and classification algorithm." This code requires 'fuzzy logic toolbox' provided by Mathworks.
+This source code is written in Mathlab language, and implements the algorithm of the research paper "Soft local non-intrusive reduced-order modeling based on soft clustering and classification algorithm." doi.org/10.1002/nme.6934 This code requires 'fuzzy logic toolbox' provided by Mathworks.
 
 The baseline code of the MLR.m was written with reference to 'Pattern recognition and machine learning toolbox':   
 https://github.com/PRML/PRMLT/tree/master/chapter04
@@ -18,5 +18,10 @@ Bishop CM., 'Pattern Recognition and Machine Learning,' Springer, 2006.
 
 # Citation
 ```
-To be determined.
+@article{kanglocal,
+  title={Local non-intrusive reduced order modeling based on soft clustering and classification algorithm},
+  author={Kang, Yu-Eop and Shon, Soonho and Yee, Kwanjung},
+  journal={International Journal for Numerical Methods in Engineering},
+  publisher={Wiley Online Library}
+}
 ```
